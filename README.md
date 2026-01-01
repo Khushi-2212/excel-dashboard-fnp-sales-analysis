@@ -21,3 +21,10 @@ The goal is to create an **interactive Excel dashboard** that provides insights 
 
 ## 🛠️ Tools Used
 - Microsoft Excel (Pivot Tables, Charts, Slicers, Dashboards , power pivot)
+
+Image of dashboard --
+<img width="1050" height="475" alt="image" src="https://github.com/user-attachments/assets/ac0adda2-8772-4650-8cfb-53b56290b274" />
+
+
+
+
