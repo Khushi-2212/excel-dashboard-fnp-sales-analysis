@@ -1,12 +1,12 @@
 # excel-dashboard-fnp-sales-analysis
 
-# 🌸 Ferns and Petals Sales Analysis - Excel Dashboard
+#  Ferns and Petals Sales Analysis - Excel Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 This project analyzes the sales dataset of **Ferns and Petals (FNP)**, a company that specializes in sending gifts for occasions like Diwali, Raksha Bandhan, Holi, Valentine’s Day, Birthdays, and Anniversaries.  
 The goal is to create an **interactive Excel dashboard** that provides insights into customer behavior, sales trends, and product performance.  
 
-## 🎯 Business Questions Answered
+##  Business Questions Answered
 1. Total Revenue
 2. Average Order and Delivery Time
 3. Monthly Sales Performance (2023)
@@ -19,7 +19,7 @@ The goal is to create an **interactive Excel dashboard** that provides insights 
 10. Product Popularity by Occasion
 
 
-## 🛠️ Tools Used
+## Tools Used
 - Microsoft Excel (Pivot Tables, Charts, Slicers, Dashboards , power pivot)
 
 Image of dashboard --
